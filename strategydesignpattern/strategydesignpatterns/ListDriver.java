@@ -1,4 +1,4 @@
-package strategydesignpattern;
+package strategydesignpattern.strategydesignpatterns;
 
 import java.util.ArrayList;
 
@@ -49,7 +49,7 @@ public class ListDriver {
 
     /**
      * Loops through and displays each item in the list items
-     * @param items list to display
+     * @param items list to display to user
      */
     private void displayList(ArrayList<String> items){
         for(String item : items){

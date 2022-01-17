@@ -1,4 +1,4 @@
-package strategydesignpattern;
+package strategydesignpattern.strategydesignpatterns;
 import java.util.ArrayList;
 
 /*
