@@ -1,3 +1,5 @@
+package decorator_design_pattern;
+
 /**
  * A new class EasyPassword that inherits the EasyPassword class
  * @author Tyler Beetle

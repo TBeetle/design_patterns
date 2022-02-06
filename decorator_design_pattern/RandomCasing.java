@@ -1,3 +1,5 @@
+package decorator_design_pattern;
+
 /**
  * A RandomCasing Class that inherits the PasswordDecorator class
  * @author Tyler Beetle

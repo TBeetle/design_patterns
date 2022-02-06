@@ -1,3 +1,5 @@
+package decorator_design_pattern;
+
 /**
  * A new class Symbols that inherits Password Decorator
  */

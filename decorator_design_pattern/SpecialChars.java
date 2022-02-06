@@ -1,3 +1,5 @@
+package decorator_design_pattern;
+
 import java.util.Random;
 
 /**
